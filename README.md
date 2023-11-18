@@ -11,12 +11,6 @@ Exploring innovative solutions in data science, web development, and contributin
 I am actively expanding my knowledge in data science, diving into advanced statistical analysis and machine learning algorithms. 
 Excited about the evolving field of data science, I am committed to staying abreast of the latest advancements and applying them to real-world scenarios.
 
-## 📫 How to reach me ...
-
-- **Email**: sujitnavadkar17@gmail.com
-- **LinkedIn**: [linkedin.com/in/sujit-navadkar-308470239](https://www.linkedin.com/in/sujit-navadkar-308470239)
-- **GitHub**: [github.com/navadkarsujit](https://github.com/navadkarsujit)
-
 ## 🖥️ Technical Skills
 
 - **Programming**: Core Java, Advanced Java, SQL, Python, HTML, CSS
@@ -29,5 +23,11 @@ Excited about the evolving field of data science, I am committed to staying abre
   - Console-based Java Applications, Database Applications, Web Applications using Servlet and JSP.
 - **SQL Certificate from Itvedant**
   - SQL Certified Associate Certification demonstrating proficiency in basic SQL concepts.
+    
+## 📫 How to reach me ...
+
+- **Email**: sujitnavadkar17@gmail.com
+- **LinkedIn**: [linkedin.com/in/sujit-navadkar-308470239](https://www.linkedin.com/in/sujit-navadkar-308470239)
+- **GitHub**: [github.com/navadkarsujit](https://github.com/navadkarsujit)
 
 Feel free to explore my projects and connect with me for collaboration or discussions. I'm enthusiastic about leveraging technology to solve real-world problems!
