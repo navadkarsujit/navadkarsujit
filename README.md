@@ -2,15 +2,14 @@
 
 Hello! I'm Sujit Navadkar, a final-year BSc IT student based in Thane, India. I'm passionate about data science and possess a solid foundation in statistics. Currently seeking opportunities to apply and enhance my skills in the field.
 
+## 👀 I’m interested in ...
+
+Exploring innovative solutions in data science, web development, and contributing to open-source projects. I have a keen interest in staying updated with the latest trends in technology.
+
 ## 🌱 I’m currently learning ...
 
 I am actively expanding my knowledge in data science, diving into advanced statistical analysis and machine learning algorithms. 
 Excited about the evolving field of data science, I am committed to staying abreast of the latest advancements and applying them to real-world scenarios.
-
-
-## 🌱 I’m currently learning ...
-
-I am actively expanding my knowledge in data science, exploring advanced concepts in Java, and enhancing my skills in web development frameworks like Spring Boot.
 
 ## 💞️ I’m looking to collaborate on ...
 
